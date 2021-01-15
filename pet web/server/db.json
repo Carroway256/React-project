@@ -1,0 +1,43 @@
+{
+  "pets": [
+    {
+      "location": "sda",
+      "description": "asd",
+      "race": "Dog",
+      "id": 1
+    },
+    {
+      "location": "sda",
+      "description": "asd",
+      "race": "Dog",
+      "id": 2
+    },
+    {
+      "location": "sda",
+      "description": "asd",
+      "race": "Dog",
+      "id": 3
+    },
+    {
+      "location": "asd",
+      "description": "asdaa",
+      "race": "Cat",
+      "userId": "102717954053422359308",
+      "id": 4
+    },
+    {
+      "location": "na wałach na zakładowej uciekł",
+      "description": "Kosior taki czarny",
+      "race": "Cat",
+      "userId": "102717954053422359308",
+      "id": 5
+    },
+    {
+      "location": "na wałach na zakładowej uciekł",
+      "description": "Kosior taki czarny",
+      "race": "Cat",
+      "userId": "102717954053422359308",
+      "id": 6
+    }
+  ]
+}
